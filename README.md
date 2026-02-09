@@ -1,5 +1,5 @@
 
-##Optimizing Police Resource Deployment with Multi-Agent RL 
+##Resource Allocation also Known as Optimizing Police Resource Deployment with Multi-Agent RL 
 
 ### Step 1 
 Implementing single agent environment where the agent tries to go to the goal state
